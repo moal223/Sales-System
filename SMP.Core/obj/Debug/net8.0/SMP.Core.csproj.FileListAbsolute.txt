@@ -1,0 +1,11 @@
+D:\DesktopApps\SMP\SMP.Core\bin\Debug\net8.0\SMP.Core.deps.json
+D:\DesktopApps\SMP\SMP.Core\bin\Debug\net8.0\SMP.Core.dll
+D:\DesktopApps\SMP\SMP.Core\bin\Debug\net8.0\SMP.Core.pdb
+D:\DesktopApps\SMP\SMP.Core\obj\Debug\net8.0\SMP.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesktopApps\SMP\SMP.Core\obj\Debug\net8.0\SMP.Core.AssemblyInfoInputs.cache
+D:\DesktopApps\SMP\SMP.Core\obj\Debug\net8.0\SMP.Core.AssemblyInfo.cs
+D:\DesktopApps\SMP\SMP.Core\obj\Debug\net8.0\SMP.Core.csproj.CoreCompileInputs.cache
+D:\DesktopApps\SMP\SMP.Core\obj\Debug\net8.0\SMP.Core.dll
+D:\DesktopApps\SMP\SMP.Core\obj\Debug\net8.0\refint\SMP.Core.dll
+D:\DesktopApps\SMP\SMP.Core\obj\Debug\net8.0\SMP.Core.pdb
+D:\DesktopApps\SMP\SMP.Core\obj\Debug\net8.0\ref\SMP.Core.dll

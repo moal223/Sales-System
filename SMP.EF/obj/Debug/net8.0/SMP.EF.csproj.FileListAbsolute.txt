@@ -1,0 +1,17 @@
+D:\DesktopApps\SMP\SMP.EF\bin\Debug\net8.0\SMP.EF.deps.json
+D:\DesktopApps\SMP\SMP.EF\bin\Debug\net8.0\SMP.EF.runtimeconfig.json
+D:\DesktopApps\SMP\SMP.EF\bin\Debug\net8.0\SMP.EF.dll
+D:\DesktopApps\SMP\SMP.EF\bin\Debug\net8.0\SMP.EF.pdb
+D:\DesktopApps\SMP\SMP.EF\bin\Debug\net8.0\SMP.Core.dll
+D:\DesktopApps\SMP\SMP.EF\bin\Debug\net8.0\SMP.Core.pdb
+D:\DesktopApps\SMP\SMP.EF\obj\Debug\net8.0\SMP.EF.csproj.AssemblyReference.cache
+D:\DesktopApps\SMP\SMP.EF\obj\Debug\net8.0\SMP.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesktopApps\SMP\SMP.EF\obj\Debug\net8.0\SMP.EF.AssemblyInfoInputs.cache
+D:\DesktopApps\SMP\SMP.EF\obj\Debug\net8.0\SMP.EF.AssemblyInfo.cs
+D:\DesktopApps\SMP\SMP.EF\obj\Debug\net8.0\SMP.EF.csproj.CoreCompileInputs.cache
+D:\DesktopApps\SMP\SMP.EF\obj\Debug\net8.0\SMP.EF.csproj.Up2Date
+D:\DesktopApps\SMP\SMP.EF\obj\Debug\net8.0\SMP.EF.dll
+D:\DesktopApps\SMP\SMP.EF\obj\Debug\net8.0\refint\SMP.EF.dll
+D:\DesktopApps\SMP\SMP.EF\obj\Debug\net8.0\SMP.EF.pdb
+D:\DesktopApps\SMP\SMP.EF\obj\Debug\net8.0\SMP.EF.genruntimeconfig.cache
+D:\DesktopApps\SMP\SMP.EF\obj\Debug\net8.0\ref\SMP.EF.dll
